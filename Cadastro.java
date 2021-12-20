@@ -36,8 +36,6 @@ public class  Cadastro {
 				System.out.printf("\n Digite o quantidade de vidro ");
 
 				vidro = leia.nextDouble();
-				
-				//vidro = vidro + vidro;
 
 				break;
 
@@ -68,25 +66,25 @@ public class  Cadastro {
 			}
 
 		}
-		System.out.println("\nLista dos materiais descartados:" + "\nVidro: " + vidro + "\nPlástico: " + plastico + "\nPapel: "
-				+ papel + "\nMetal: " + metal);
+		System.out.println("\nLista dos materiais descartados:" + "\nVidro: " + vidro + "kg" + "\nPlástico: " + plastico + "kg" + "\nPapel: "
+				+ papel + "kg" + "\nMetal: " + metal + "kg");
 
 		double total = (papel + vidro + plastico + metal);
-		System.out.println("\nO peso total de material reciclável arrecadado foi de: " + total+"kg.");
+		System.out.printf("\nO peso total de material reciclável arrecadado foi de: %2.1fkg.",total);
 		if (total < 5) {
 			System.out.println("\nVocê descartou "+total+"kg de material recicável e essa quantia não possui recompensa. Agradecemos o descarte! :)");
 		}
 		if (total >= 5 && total < 10) {
-			System.out.println("\nVocê descartou "+total+"kg de material recicável e ganhou um bloco de notas ecológico! Retire sua recompensa em um posto autorizado apresentando um documento de identidade com foto.");
+			System.out.println("\nVocê descartou "+total+"kg de material recicável e ganhou um BLOCO DE NOTAS DE PAPEL RECICLADO!\nRetire sua recompensa em um posto autorizado apresentando um documento de identidade com foto.");
 		}
 		if (total >= 10 && total < 15) {
-			System.out.println("\nVocê descartou "+total+"kg de material recicável e ganhou uma necessaire ecológica! Retire sua recompensa em um posto autorizado apresentando um documento de identidade com foto.");
+			System.out.println("\nVocê descartou "+total+"kg de material recicável e ganhou uma NECESSAIRE ECOLÓGICA!\nRetire sua recompensa em um posto autorizado apresentando um documento de identidade com foto.");
 		}
 		if (total >= 15 && total < 20) {
-			System.out.println("\nVocê descartou "+total+"kg de material recicável e ganhou uma ecobag! Retire sua recompensa em um posto autorizado apresentando um documento de identidade com foto.");
+			System.out.println("\nVocê descartou "+total+"kg de material recicável e ganhou uma ECOBAG ECOLÓGICA!\nRetire sua recompensa em um posto autorizado apresentando um documento de identidade com foto.");
 		}
 		if (total >= 20) {
-			System.out.println("\nVocê descartou "+total+"kg de material recicável e ganhou um kit de copos ecológicos de 500ml produzido em fibra de bambu! Retire sua recompensa em um posto autorizado apresentando um documento de identidade com foto.");
+			System.out.println("\nVocê descartou "+total+"kg de material recicável e ganhou um KIT DE COPOS ECOLÓGICOS FEITOS DE BAMBU!\nRetire sua recompensa em um posto autorizado apresentando um documento de identidade com foto.");
 		}
 
 

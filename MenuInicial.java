@@ -15,14 +15,14 @@ public class MenuInicial {
 
 		Scanner leia = new Scanner(System.in);
 
-		System.out.println("******************************** MENU **********************************");
+		System.out.println("\n******************************** MENU **********************************");
 		System.out.println("\n                   Bem vindes ao Recicla SP\n"
 				+ "========================================================================");
 
 		int opcao;
 
 		System.out.println("                       SELECIONE UMA OPÇÃO \n"
-				+ "========================================================================\n1. " + "Cadastro\n2. "
+				+ "========================================================================\n1. " + "Iniciar registro de descarte\n2. "
 				+ "Tabela de materiais aceitos\n3. " + "Tabela de informações de recompensas\n4. "
 				+ "Informações do sistema");
 

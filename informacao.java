@@ -9,8 +9,7 @@ public class informacao {
 	{
 
 		System.out.println("************************** Informações do Sistema **************************");
-		System.out.println("\n O objetivo desse sistema é gerenciar melhor um sistema de Reciclagem"
-				+ "\n na  Cidade de São Paulo e aprimorar os conhecimentos em Java");
+		System.out.println("\nO objetivo desse programa é a coleta seletiva e recompensa de acordo \ncom o peso dos materiais descartados.");
 
 		System.out.println("\n************************** Desenvolvedores **************************");
 		System.out.println("\nBruno Felix " + "\nDiego Martins" + "\nRaif Sousa" + "\nCibele França" + "\nVinícius Barbosa"+"\nMariana Souza");

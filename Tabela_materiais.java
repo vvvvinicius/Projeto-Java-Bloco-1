@@ -7,12 +7,13 @@ public class Tabela_materiais {
 	static void AbrirTabela()
 
 	{
-		System.out.println(" Exemplos de materiais que podem ser descartados !! | Materiais que não aceitamos !!");
-		System.out.println(" VIDRO: Potes, Garrafas, Copos, etc.                | Pilhas.                       ");
-		System.out.println(" PLÁSTICO: Embalagens, Garrafas PET, etc.           | Baterias.                     ");
-		System.out.println(" PAPEL: Papelão, Jornais, Revistas, etc.            | Lixo Orgânico.                ");
-		System.out.println(" METAL: Panelas, Pregos, Arames, etc.               |                               ");
-		
+		System.out.println("\n==================================================================================");
+		System.out.println(" Exemplos de materiais que podem ser descartados! | Materiais que não aceitamos!");
+		System.out.println(" VIDRO: Potes, Garrafas, Copos, etc.              | Pilhas.                       ");
+		System.out.println(" PLÁSTICO: Embalagens, Garrafas PET, etc.         | Baterias.                     ");
+		System.out.println(" PAPEL: Papelão, Jornais, Revistas, etc.          | Lixo Orgânico.                ");
+		System.out.println(" METAL: Panelas, Pregos, Arames, etc.             |                               ");
+		System.out.println("==================================================================================");
 
 		Scanner leia = new Scanner(System.in);
 
