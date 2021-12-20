@@ -9,10 +9,10 @@ public class Recompensas {
 		System.out.println("==========================================================================================");
 		System.out.println("                                  MENU DE RECOMPENSAS!");
 	    System.out.println("------------------------------------------------------------------------------------------");
-	    System.out.println(" De 10 até 15 kilos ganha um BLOCO DE NOTAS DE PAPEL RECICLADO");
-	    System.out.println(" De 10 até 15 kilos ganha uma NECESSAIRE ECOLÓGICA");
-	    System.out.println(" De 15 até 20 kilos ganha uma ECOBAG ECOLÓGICA");
-	    System.out.println(" Mais de 20 kilos ganha um KIT DE COPOS ECOLÓGICOS FEITOS DE BAMBU");
+	    System.out.println(" De 5 até 10 quilos ganha um BLOCO DE NOTAS DE PAPEL RECICLADO");
+	    System.out.println(" De 11 até 15 quilos ganha uma NECESSAIRE ECOLÓGICA");
+	    System.out.println(" De 16 até 20 quilos ganha uma ECOBAG ECOLÓGICA");
+	    System.out.println(" Mais de 20 quilos ganha um KIT DE COPOS ECOLÓGICOS FEITOS DE BAMBU");
 	    System.out.println("==========================================================================================");
 	    System.out.printf("\nEscolha uma opção: ");
 				

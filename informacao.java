@@ -12,10 +12,10 @@ public class informacao {
 		System.out.println("\nO objetivo desse programa é a coleta seletiva e recompensa de acordo \ncom o peso dos materiais descartados.");
 
 		System.out.println("\n************************** Desenvolvedores **************************");
-		System.out.println("\nBruno Felix " + "\nDiego Martins" + "\nRaif Sousa" + "\nCibele França" + "\nVinícius Barbosa"+"\nMariana Souza");
+		System.out.println("\nBruno Felix " + "\nCibele França" + "\nDiego Martins" + "\nMariana Souza" + "\nRaif Sousa"+"\nVinícius Barbosa");
 
 		System.out.println("\n************************** Versão do Sistema **************************");
-		System.out.println("\n1  Versão Beta número ----> .0.0 - ");
+		System.out.println("\n1  Versão Beta número ----> 1.0.1");
 
 		Scanner ler = new Scanner(System.in);
 		int i;
