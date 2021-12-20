@@ -1,15 +1,14 @@
 ## RECICLA SP
 
-→ Projeto de Java
-→ Grupo 5 - turma 41
-→ [Generation Brasil](https://brazil.generation.org/ "Generation Brasil")
+→ Projeto de Java<br>
+→ Grupo 5 - turma 41<br>
+→ [Generation Brasil](https://brazil.generation.org/ "Generation Brasil")<br>
 
-→ O projeto desenvolvido usando o Eclipse com o objetivo de validar o conhecimento do bloco 1 com a aplicação dos conhecimentos adquiridos na introdução de Java.
+→ O projeto desenvolvido usando o Eclipse com o objetivo de validar o conhecimento do bloco 1 com a aplicação dos conhecimentos adquiridos na introdução de Java.<br>
 
-→ Projeto voltado para coleta de materiais recicláveis oferecendo recompensa de acordo com o peso total do descarte.
+→ Projeto voltado para coleta de materiais recicláveis oferecendo recompensa de acordo com o peso total do descarte.<br>
 
-→ Participantes:
-
+→ Participantes:<br>
 ▪ [Bruno Felix](https://github.com/Brunofelix2021 "Bruno Felix")<br>
 ▪ [Cibele França](https://github.com/cibelefranca "Cibele França")<br>
 ▪ [Diego Martins](https://github.com/Mohotrisk "Diego Martins")<br>
