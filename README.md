@@ -1,6 +1,6 @@
 ## RECICLA SP
 
-→ Projeto de Java<br>
+→ Projeto de Java - back-end<br>
 → Grupo 5 - turma 41<br>
 → [Generation Brasil](https://brazil.generation.org/ "Generation Brasil")<br>
 
